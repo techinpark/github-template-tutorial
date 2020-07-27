@@ -1,5 +1,5 @@
 # github-template-tutorial
-github template 예제를 위한 레포지토리입니다.
+github template 예제를 위한 레포지토리입니다.  
 블로그 글 https://fernando.kr/develop/2019-05-29-github-pull-request-template-guide/ 을 참고해주세요 
 
 
